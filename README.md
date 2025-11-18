@@ -1,2 +1,3 @@
 # Git-testailua
-Testataan Git
+Tämä teksti on uutta tekstiä
+
